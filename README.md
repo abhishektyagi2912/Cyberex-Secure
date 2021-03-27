@@ -5,7 +5,7 @@ Cyberex Secure is planned to be a security solution with a wide range of feature
 
 Project Status: The majority of the python files required to run the backend have been prepared. Integrating them into a GUI is the further task ahead.
 
-![](Aspose.Words.15f817e4-d9c8-4a1e-bb38-b3ab56365d4a.001.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/81071871/112717913-a1688980-8f15-11eb-9157-8bac240c03e9.png)
 
 Password Generation Module 
 
