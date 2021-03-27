@@ -5,7 +5,8 @@ Cyberex Secure is planned to be a security solution with a wide range of feature
 
 Project Status: The majority of the python files required to run the backend have been prepared. Integrating them into a GUI is the further task ahead.
 
-![Screenshot (99)](https://user-images.githubusercontent.com/81071871/112717913-a1688980-8f15-11eb-9157-8bac240c03e9.png)
+![WhatsApp Image 2021-03-27 at 4 15 02 PM](https://user-images.githubusercontent.com/81071871/112718244-be05c100-8f17-11eb-9d31-e25ae6c69492.jpeg)
+
 
 Password Generation Module 
 
@@ -24,10 +25,12 @@ File:  password\_generator.py
 1. This uses : pip install oauth2client
 1. Enable the Gmail API (due to Google Security)
 1. Download the file and save it to the folder same as the code.
+2. 
 ![Screenshot (107)](https://user-images.githubusercontent.com/81071871/112718005-41261780-8f16-11eb-8a4c-5a16d835107f.png)
 
 1. Set the subject of the emails which are not required. (For example : Bank OTPs 
-1. In the spot of “<abc@gmail.com>”, put in the website, from which the mails are 
+2. In the spot of “<abc@gmail.com>”, put in the website, from which the mails are 
+ 
 ![Screenshot (112)](https://user-images.githubusercontent.com/81071871/112718023-61ee6d00-8f16-11eb-90e2-e5b6982b1df6.png)
 
 
@@ -57,6 +60,7 @@ Open the host file and remove the blocked domains as shown in below image.
 ![Screenshot (114)](https://user-images.githubusercontent.com/81071871/112718085-b5f95180-8f16-11eb-8089-5352eb688d7c.png)
 
 Due to the Windows Security, the module needs to be operated by the administrator.Then the module will automatically block the website. 
+
 ![Screenshot (105)](https://user-images.githubusercontent.com/81071871/112718127-02449180-8f17-11eb-8147-573075bd2ac2.png)
 
 
@@ -76,11 +80,14 @@ Face Recognition
 1. ` `It will recognize the face of the person with the webcam and compare it with the registered face and evaluate whether they are the same person. It can also evaluate multiple faces at once. 
 1. It uses haarcascades, which are machine learning object detection algorithms to detect faces.
 
+
+![Screenshot (103)](https://user-images.githubusercontent.com/81071871/112718172-37e97a80-8f17-11eb-9a96-d8d7121e9c27.png)
+
+
 ![Screenshot (101)](https://user-images.githubusercontent.com/81071871/112718152-1a1c1580-8f17-11eb-9e37-9492b792ce17.png)
 
 
 
-![Screenshot (103)](https://user-images.githubusercontent.com/81071871/112718172-37e97a80-8f17-11eb-9a96-d8d7121e9c27.png)
 
 
 
