@@ -15,8 +15,8 @@ Password Generation Module
 File:  password\_generator.py
 
 1. This uses “Tkinter” , which is a GUI Package in Python.
-1. To run this software, a module called pip install pyperclip needs to be used when code is run in Pycharm or VSCode.
-1. The generated code can be of desired length and can be copied to the user’s clipboard.
+2. To run this software, a module called pip install pyperclip needs to be used when code is run in Pycharm or VSCode.
+3. The generated code can be of desired length and can be copied to the user’s clipboard.
 
 ![Screenshot (99)](https://user-images.githubusercontent.com/81071871/112717913-a1688980-8f15-11eb-9157-8bac240c03e9.png)
 
@@ -74,13 +74,13 @@ Due to the Windows Security, the module needs to be operated by the administrato
 Face Recognition 
 
 1. Prerequisites: Install Visual C++ Redistributable Packages  (required to run C++ applications that are built by using Visual Studio)
-1. Python modules required:
+2. Python modules required:
 - pip install opencv-python
 - pip install cv2
 - pip install face-recognition
-1. In the initial setup, the user will be required to give webcam access for the first time. The user will have to register their face through it.
-1. ` `It will recognize the face of the person with the webcam and compare it with the registered face and evaluate whether they are the same person. It can also evaluate multiple faces at once. 
-1. It uses haarcascades, which are machine learning object detection algorithms to detect faces.
+3. In the initial setup, the user will be required to give webcam access for the first time. The user will have to register their face through it.
+4. ` `It will recognize the face of the person with the webcam and compare it with the registered face and evaluate whether they are the same person. It can also evaluate multiple faces at once. 
+5. It uses haarcascades, which are machine learning object detection algorithms to detect faces.
 
 
 ![Screenshot (103)](https://user-images.githubusercontent.com/81071871/112718172-37e97a80-8f17-11eb-9a96-d8d7121e9c27.png)
