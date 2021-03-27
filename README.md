@@ -25,13 +25,13 @@ File:  password\_generator.py
 ` `File: autodelete.py
 
 1. This uses : pip install oauth2client
-1. Enable the Gmail API (due to Google Security)
-1. Download the file and save it to the folder same as the code.
-2. 
+2. Enable the Gmail API (due to Google Security)
+3. Download the file and save it to the folder same as the code.
+ 
 ![Screenshot (107)](https://user-images.githubusercontent.com/81071871/112718005-41261780-8f16-11eb-8a4c-5a16d835107f.png)
 
-1. Set the subject of the emails which are not required. (For example : Bank OTPs 
-2. In the spot of “<abc@gmail.com>”, put in the website, from which the mails are 
+4. Set the subject of the emails which are not required. (For example : Bank OTPs )
+5. In the spot of “<abc@gmail.com>”, put in the website, from which the mails are to be deleted 
  
 ![Screenshot (112)](https://user-images.githubusercontent.com/81071871/112718023-61ee6d00-8f16-11eb-90e2-e5b6982b1df6.png)
 
