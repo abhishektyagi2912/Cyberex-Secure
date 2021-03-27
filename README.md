@@ -57,8 +57,8 @@ Open the host file and remove the blocked domains as shown in below image.
 ![Screenshot (114)](https://user-images.githubusercontent.com/81071871/112718085-b5f95180-8f16-11eb-8089-5352eb688d7c.png)
 
 Due to the Windows Security, the module needs to be operated by the administrator.Then the module will automatically block the website. 
+![Screenshot (105)](https://user-images.githubusercontent.com/81071871/112718127-02449180-8f17-11eb-8147-573075bd2ac2.png)
 
-![](Aspose.Words.15f817e4-d9c8-4a1e-bb38-b3ab56365d4a.009.png)
 
 
 
@@ -76,11 +76,12 @@ Face Recognition
 1. ` `It will recognize the face of the person with the webcam and compare it with the registered face and evaluate whether they are the same person. It can also evaluate multiple faces at once. 
 1. It uses haarcascades, which are machine learning object detection algorithms to detect faces.
 
-![](Aspose.Words.15f817e4-d9c8-4a1e-bb38-b3ab56365d4a.010.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/81071871/112718152-1a1c1580-8f17-11eb-9e37-9492b792ce17.png)
 
 
 
-![](Aspose.Words.15f817e4-d9c8-4a1e-bb38-b3ab56365d4a.011.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/81071871/112718172-37e97a80-8f17-11eb-9a96-d8d7121e9c27.png)
+
 
 
 
