@@ -23,5 +23,5 @@ for (x, y, w, h) in faces:
 # Filename 
 filename = 'myconvertedimage_team.jpg'
   
-# Saving the image 
+# Saving  image 
 cv2.imwrite(filename, image) 
